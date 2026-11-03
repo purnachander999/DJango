@@ -1,0 +1,22 @@
+What is Django?
+1. High Level Python Webframework.
+2. Designed for fast, secure , scalable development.
+3. Open-source and community driven.
+4. Follow MVT ( Model-View-Template) Architecture.
+5. Motto: "The framework for perfectionists with deadlines".
+
+
+Key Features
+1. Batteries Included - Built-in tools for authentication, admin panel, ORM and etc.
+2. Scalable - From small apps to large-scale platforms.
+3. Secure - Protects against SQL injection, XSS , CSRF.
+Cross-Platform - Works on Windows, Mac and linux.
+4. Strong Community Support - Large Ecosystem of plugins and tutorials.
+
+Real-World Use.
+
+Instagram -
+Pintrest
+Uber
+Netflix
+
