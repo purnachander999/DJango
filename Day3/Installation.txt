@@ -1,0 +1,4 @@
+1. Installation of Python.
+2. VS COde.
+3. setup virtual environment for python
+4. install Django ( pip install Django)

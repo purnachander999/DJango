@@ -1,0 +1,4 @@
+Steps for creating Django project.
+
+1. django-admin startproject myProject.
+2. 

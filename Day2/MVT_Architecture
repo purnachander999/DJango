@@ -1,0 +1,17 @@
+What is MVT?
+MVT is a design pattern used to build web applications 
+
+Components of MVT?
+M - Model  talks about database representation , which is used to store and manage the data.
+V - View - it represents the business logic and sends the data to the template.
+T - Template - contains HTML and django logic to display the data in HTML format.
+
+MVT Workflow Step by Step
+1. User sends a request.
+2. URL dispatcher maps request to the view.
+3. View interacts with model to get/save data.
+4. View sends data to the template.
+5. Template renders HTML.
+6. HTML is sent as response to user.
+
+( DJANGO Architecture Diagram)

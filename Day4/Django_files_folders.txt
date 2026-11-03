@@ -1,0 +1,12 @@
+1. manage.py - it is a commandline tool used to mange the project like running the server , creating the project, creating app, creating super user, makemigrations and etc..
+
+2. Settings.py - it used for contrlling the new apps, templates, middleware and etc..
+3. urls.py - it is used to control the url route  path.
+4. asgi.py - asyncronous gateway interface. - used for handling asynoous calls
+5. wsgi.py - webserver gateway interface.  - used for production deployment.
+
+
+Starting the project
+----------------------------------
+1. python3 manage.py runserver
+
