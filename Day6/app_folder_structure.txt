@@ -1,0 +1,8 @@
+App folder structure
+-------------------------------
+1. Migrations - Database schema changes.
+2. Admin - Django admin panel configrations
+3. App - App configuration details.
+4. Model - database tables, schema.
+5 test  - unit testing
+6. View - Functions

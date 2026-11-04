@@ -1,0 +1,7 @@
+Create First app
+1. What is Django app?
+2. Move into Project Folder.
+3. Create app Command
+4,. App folder structure
+5. Register App in project.
+6. Test the setup

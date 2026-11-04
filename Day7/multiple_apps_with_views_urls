@@ -1,0 +1,7 @@
+Create multiple apps with Views and URLS
+1. Create project and 2 apps( blogs and shop)
+2. INSTALLED_apps
+3. create blogs/views.py and shop/views.py
+4. create blogs/urls.py and shops/views.py
+5. main project/urls.py entry.
+6. Runserver and FInal output
