@@ -1,0 +1,4 @@
+1. Creating tempplates in the app folder
+2. Template inheritence using {% extends 'base.html' %}
+3. {% block title %} and {% endblock %}
+4  {% block content %} and {% endblock %}
